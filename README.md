@@ -99,8 +99,8 @@ Create a new product with associated variants using Medusa's core services.
 
 ### Functionality
 
-- Create a product using `productService`
-- Add variants using `productVariantService`
+- Create a product and add variants using Medusa's product workflows
+- https://docs.medusajs.com/resources/medusa-workflows-reference
 
 ---
 
