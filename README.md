@@ -1,6 +1,6 @@
 # Medusa Backend Test Instructions
 
-This project is a technical assessment designed to evaluate your familiarity with [Medusa.js](https://medusajs.com/), an open-source headless commerce engine built for modern e-commerce applications.
+This project is a technical assessment designed to evaluate your familiarity with backend development and how quickly you can take your existing knowledge and implement it with a new framework. [Medusa.js](https://medusajs.com/) is an open-source headless commerce engine built for modern e-commerce applications, its powered by Node.js and Express so your existing knowledge of Node.js and Express along with research skills will be reused in this task.
 
 ## Table of Contents
 
